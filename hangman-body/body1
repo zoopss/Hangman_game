@@ -1,1 +1,11 @@
+# It is just a basic structure of a hangman hanger.
+print ' |======================|     '
+print '                |                |            '
+print '                |                |            '
+print '                                 |             '
+print '                                 |             '
+print '                                 |             '
+print '                                 |             '
+print '                                 |             '
+print '|_____________====__|      '
 
